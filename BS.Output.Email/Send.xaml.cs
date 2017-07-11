@@ -13,7 +13,9 @@ namespace BS.Output.Email
       InitializeComponent();
 
       FileNameTextBox.Text = fileName;
-  
+      FileNameTextBox.SelectAll();
+      FileNameTextBox.Focus();
+
     }
 
     public string FileName

@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
     <metadata>
-			<id>BS.Output.Email</id>
-			<version>1.0.1</version>
+			<id>BugShooting.Output.Email</id>
+			<version>1.0.0</version>
 			<title>Email Output for Bug Shooting</title>
       <authors>Bug Shooting, Alexej Hirsch</authors>
       <owners>Bug Shooting, Alexej Hirsch</owners>
-      <licenseUrl>https://github.com/BugShooting/Output.Email/raw/master/LICENSE.txt</licenseUrl>
+      <licenseUrl>https://github.com/BugShooting/BugShooting.Output.Email/raw/master/LICENSE.txt</licenseUrl>
 			<projectUrl>https://github.com/BugShooting</projectUrl>
-			<iconUrl>https://github.com/BugShooting/Output.Email/raw/master/BS.Output.Email/Resources/logo_64.png</iconUrl>
+			<iconUrl>https://github.com/BugShooting/BugShooting.Output.Email/raw/master/BugShooting.Output.Email/Resources/logo_64.png</iconUrl>
 			<requireLicenseAcceptance>false</requireLicenseAcceptance>
 			<releaseNotes />
 			<description>Attach screenshots to your emails.</description>
 			<copyright />
-			<tags>bugshooting.com/output/v3</tags>
+			<tags>bugshooting.plugin.v3.output</tags>
     </metadata>
     <files>
-			<file src="BS.Output.Email.dll" />
+			<file src="BugShooting.Output.Email.dll" />
     </files>
 </package>

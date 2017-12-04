@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 
-namespace BS.Output.Email
+namespace BugShooting.Output.Email
 {
 
   internal class Mapi

@@ -1,4 +1,6 @@
-﻿namespace BS.Output.Email
+﻿using BS.Plugin.V3.Output;
+
+namespace BugShooting.Output.Email
 {
 
   public class Output: IOutput 

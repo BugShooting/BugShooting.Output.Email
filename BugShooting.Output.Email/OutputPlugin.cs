@@ -100,7 +100,7 @@ namespace BugShooting.Output.Email
       try
       { 
 
-        string fileName = FileHelper.GetFileName(Output.FileName, ImageData);
+        string fileName = AttributeHelper.ReplaceAttributes(Output.FileName, ImageData);
 
         if (Output.EditFileName)
         {
